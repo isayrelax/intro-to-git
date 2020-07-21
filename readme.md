@@ -14,5 +14,24 @@
 - git add -A (adds all files, including hidden)
 
 #Removing files
+- git reset HEAD file.name
 
 #Ingoring files
+- touch .gitignore
+- add file names to ignore to .gitignore file
+
+#Git Branches
+* Listing all branches
+
+* Adding a branch
+
+* Changing branches
+
+* Merging a branch
+
+* Removing a branch
+
+            /-----0---0----0    Feature Branch
+           /              /
+0---------0----0----0----0      Master Branch
+Initial Commit
