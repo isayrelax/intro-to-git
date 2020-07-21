@@ -6,3 +6,12 @@
 
 #Git Repository
 - where all our snapshots are stored
+
+#Adding multiple files of a certain type
+- git add *.html - adds all html files
+
+#Adding all files in a directory (including hidden)
+- git add -A (adds all files, including hidden)
+#Removing files
+
+#Ingoring files
