@@ -12,6 +12,7 @@
 
 #Adding all files in a directory (including hidden)
 - git add -A (adds all files, including hidden)
+
 #Removing files
 
 #Ingoring files
